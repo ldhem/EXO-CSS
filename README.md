@@ -1,2 +1,3 @@
-#Exo-CSS
+# Exo-CSS
+
 ## Javascript fundamentals
